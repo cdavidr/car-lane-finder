@@ -30,7 +30,7 @@ Options:
 
 For example, to detect lanes lines on the video 'white.mp4', run:
 
-```python detect_road_lanes.py -i white.mp4 -o white_out.mp4```
+```python detect_road_lanes.py -i solidWhiteRight.mp4 -o white_out.mp4```
 
 To detect lane lines on a single image, for example test_images/solidYellowLeft.jpg, run:
 
